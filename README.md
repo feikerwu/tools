@@ -6,7 +6,7 @@
 + **Menlo** Mac OS X 自带
 + **Monaca** Mac OS X 自带
 + **Hack** https://github.com/source-foundry/Hack
-+ **Droid Sans Mono** 
++ **Droid Sans Mono**
 
 
 
@@ -16,5 +16,11 @@
 
 
 
-#### Shell 
+#### Shell
 
++ [the art of command line](https://github.com/jlevy/the-art-of-command-line) 命令行操作
+
+
+#### alfred
+
++ [根据文字搜索emoji表情](https://github.com/sindresorhus/alfred-emoj)
