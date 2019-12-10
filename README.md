@@ -26,3 +26,6 @@
 
 #### 动画库
 + [lottie](https://github.com/airbnb/lottie-web) 前端和设计协作，设计通过lottie在AE导出一个json，开发通过这个json控制帧动画
+
+#### 工具库
++ [根据ip去解析地理位置](https://github.com/bluesmoon/node-geoip)
