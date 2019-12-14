@@ -19,6 +19,7 @@
 #### Shell
 
 + [the art of command line](https://github.com/jlevy/the-art-of-command-line) 命令行操作
++ [命令行更优雅查看json的工具](https://github.com/antonmedv/fx)
 
 
 #### alfred
