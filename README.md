@@ -31,4 +31,4 @@
 
 #### node 学习
 
-- [优秀的 npm 包](https://github.com/parro-it/awesome-micro-npm-packages)
+- [优秀的 npm 包 ](https://github.com/parro-it/awesome-micro-npm-packages)
