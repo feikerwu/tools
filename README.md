@@ -32,3 +32,7 @@
 #### node 学习
 
 - [优秀的 npm 包 ](https://github.com/parro-it/awesome-micro-npm-packages)
+
+
+#### others
+- [快速生成一个blog](https://github.com/JaeYeopHan/gatsby-starter-bee)
